@@ -1,0 +1,2 @@
+let : Declara uma variavel, o conteudo dentro dela altera seu tipo, Ex: se o conteudo for um numero a variavel é do tipo "Number", após isso o "let" limita a variavel a seu escopo de bloco
+var : Declara uma variavel, o conteudo dentro dela altera seu tipo, Ex: se o conteudo for um numero a variavel é do tipo "Number", após isso o "var" permite a variavela sair do seu escopo
